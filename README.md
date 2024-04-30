@@ -21,6 +21,7 @@ Database:
 MongoDB Atlas for cloud-hosted database management
 Development Tools:
 Git and GitHub for version control
+
 Postman for API testing
 VS Code or any preferred code editor
 Setup
@@ -35,3 +36,19 @@ Start the React development server using npm start.
 Access the application in your web browser at http://localhost:3000.
 Screenshots
 ![redimg1](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/3925c2d8-abb2-400a-86d1-0fa095a10ab1)
+
+
+![redimg2](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/4cdee973-6be7-44d3-b388-7d45363dc97f)
+
+
+![redimg3](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/59ddbe36-8365-4938-ab20-d70cb4278f10)
+
+
+![redimg4](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/4314e03f-f40f-457f-8b5f-f46114541618)
+
+![img12](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/68cb77d4-7890-48b5-83bc-5524a89ab6e1)
+
+![img66](https://github.com/riteshmaurya089/Red-White-Assignment/assets/119353953/259a1ee7-d9c4-400c-8d4e-c5b614cf926d)
+
+
+
