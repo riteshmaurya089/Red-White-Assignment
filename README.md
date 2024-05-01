@@ -1,8 +1,8 @@
 # Red-White-Assignment
-Project Name
+#Project Name
 E-Commerce Application! This project is a full-stack web application built to provide users with a comprehensive shopping experience. Leveraging technologies like Node.js, Express.js, MongoDB, and React.js, this application offers functionalities for browsing products, managing categories, adding items to the cart, and more.
 
-Features
+#Features
 Product Listings: Browse through a wide range of products categorized under Men, Women, Electronics, Jewelry, etc.
 Product Details: View detailed information about each product, including title, description, price, old price, rating, availability, and image.
 Category Filtering: Easily filter products by category to streamline the shopping experience.
@@ -17,14 +17,14 @@ Frontend:
 React.js
 React Router for client-side routing
 Axios for API communication
-Database:
+#Database:
 MongoDB Atlas for cloud-hosted database management
-Development Tools:
+#Development Tools:
 Git and GitHub for version control
 
-Postman for API testing
-VS Code or any preferred code editor
-Setup
+#Postman for API testing
+#VS Codeeditor
+#Setup
 Clone the repository to your local machine using git clone.
 Navigate to the backend directory and install dependencies using npm install.
 Set up MongoDB Atlas 
